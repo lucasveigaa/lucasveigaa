@@ -1,1 +1,1 @@
-Olá, eu sou o Lucas Veiga. Estudante de Desenvolvimento Full Stack pela Gama Academy.
+Olá!!! Me chamo Lucas Veiga e sou estudante de Desenvolvimento Full Stack pela Gama Academy.
