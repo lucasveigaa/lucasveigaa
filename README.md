@@ -1,4 +1,4 @@
-## Olá!!! Me chamo Lucas Veiga e sou estudante de Desenvolvimento Full Stack pela Gama Academy.
+## Olá!!! Me chamo Lucas Veiga e sou um Desenvolvedor Back-end em formação.
 
 
 <br>
