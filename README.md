@@ -1,4 +1,4 @@
-## Olá!!! Me chamo Lucas Veiga e sou um Desenvolvedor de Software.
+## Olá!!! Me chamo Lucas Veiga e sou um Desenvolvedor Back-end.
 
 
 <br>
